@@ -67,7 +67,9 @@ Replace with the actual builder/team names and links before submitting.
 
 ## Demo URL / repository
 
-Add the deployed demo URL and public repository URL after publishing them.
+Live demo: https://1932919956.github.io/memomatch-tempo/
+
+Public repository: https://github.com/1932919956/memomatch-tempo
 
 ## Video pitch outline (60 seconds)
 
